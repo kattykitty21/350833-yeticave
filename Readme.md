@@ -1,7 +1,7 @@
-# Личный проект «YetiCave» 
+# Личный проект «YetiCave»
 
 * Студент: [Екатерина Кочеткова](https://up.htmlacademy.ru/php/1/user/350833).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Кузнецов].(https://htmlacademy.ru/profile/id417075)
 
 ---
 
